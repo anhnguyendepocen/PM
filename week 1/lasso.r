@@ -1,3 +1,5 @@
+#Example of a LASSO using R
+
 #lasso
 library(glmnet)
 # Gaussian
